@@ -1,0 +1,8 @@
+funcao() := block(
+	print ("Ps ->P=v^2/R -> V^2/2R"),
+	print ("Pp ->P=V^2*R -> V^2/(R/2)
+	Ps: read ("potencia"),
+	Pp: Ps*2
+	
+
+)$

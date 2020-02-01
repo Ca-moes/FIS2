@@ -1,0 +1,9 @@
+funcao():= block(
+
+	print("...fonte ideal com f.e.m. de 3 V"),
+	print("Calc a dif de potencial no indutor no instante inicial(quando se liga a fonte)"),
+	print("V = f.e.m. da fonte, neste caso 3V")
+
+)$
+
+

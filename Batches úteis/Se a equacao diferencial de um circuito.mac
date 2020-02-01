@@ -1,0 +1,5 @@
+funcao() := block(
+	print("Para 3V.. + V = -2Ve"),
+	print("funcao transferencia -> -2/(3s^2+1)")
+
+)$

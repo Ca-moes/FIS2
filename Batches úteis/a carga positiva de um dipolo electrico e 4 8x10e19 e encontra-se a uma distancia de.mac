@@ -1,0 +1,5 @@
+funcao() := block(
+	print ("esta a mesma distancia de duas cargas iguais com sinais diferentes, anulam-se")
+	
+	
+)$

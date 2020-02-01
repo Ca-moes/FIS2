@@ -1,0 +1,7 @@
+funcao() := block(
+	print("Espira circular no plano Oxy com centro na origem - corrente I no sentido horario"),
+	print("em z = 2 esta outra espira - qual o sentido da corrente induzida na segunda espira"),
+
+	print("R: sentido horario.")
+	
+)$
